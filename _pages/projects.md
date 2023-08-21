@@ -6,7 +6,7 @@ description: Below is the list of projects undertaken by me which are either com
 nav: true
 nav_order: 2
 display_categories: [ongoing, completed]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
