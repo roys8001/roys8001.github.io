@@ -11,7 +11,6 @@ nav_order: 5
 <head>
     <title>Below is the list of courses for which I was either a teaching assistant or an instructor</title>
 </head>
-<body>
     <h1>Texas A&M University</h1>
     
         <li>Teaching Assistant (TA)
@@ -23,6 +22,5 @@ nav_order: 5
             </ul>
         <li>Instructor</li>
 
-</body>
-</html>
+
 
