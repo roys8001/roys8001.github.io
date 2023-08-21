@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Project 2
 description: On Consistency and Asymptotic Normality of Least Absolute Deviation Estimators for 2d Sinusoidal Model
 img: assets/img/sinusoidalcurve.jpeg
 importance: 2
