@@ -5,8 +5,8 @@ permalink: /projects/
 description: Below is the list of projects undertaken by me which are either completed or ongoing. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [ongoing, completed]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
