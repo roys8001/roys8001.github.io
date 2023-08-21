@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Project 2
+description: On Consistency and Asymptotic Normality of Least Absolute Deviation Estimators for 2d Sinusoidal Model
+img: assets/img/sinusoidalcurve.jpeg
 importance: 2
-category: work
+category: completed
 giscus_comments: true
 ---
 
