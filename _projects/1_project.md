@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Project 1
 description: Directed Cyclic Graph for Causal Discovery of Multivariate Functional Data
 img: assets/img/EEGhumanphoto.png
 importance: 1
