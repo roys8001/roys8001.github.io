@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: Saptarshi Roy
+      value: Saptarshi Roy
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23rd November, 1997
     - name: Languages
-      value: English, German
+      value: English, Bengali, Hindi
 
 - title: Education
   type: time_table
