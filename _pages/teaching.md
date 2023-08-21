@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: Courses
+title: teaching
 description: 
 nav: true
 nav_order: 5
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Below is the list of courses for which I was either a teaching assistant or an instructor</title>
