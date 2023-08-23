@@ -22,5 +22,7 @@ I am a 3rd Year PhD student in the [Department of Statistics](https://stat.tamu.
 
 My research interests include Bayesian modelling, functional data analysis, graphical models and causal discovery. Recently, I’ve also been interested in transfer learning and domain adaptation problems.  
 
-I am working under the supervision of [Dr Yang Ni](https://web.stat.tamu.edu/~yni/) and [Dr Raymond K.W. Wong](https://raymondkww.github.io). Earlier, I have worked under the guidance of [Dr Amit Mitra](https://home.iitk.ac.in/~amitra/) of IIT Kanpur as a part of my master's thesis work.
+I am working with [Dr Yang Ni](https://web.stat.tamu.edu/~yni/) and [Dr Raymond K.W. Wong](https://raymondkww.github.io) and both of them have been wonderful influences on my life. Earlier, I have worked under the guidance of [Dr Amit Mitra](https://home.iitk.ac.in/~amitra/) of IIT Kanpur as a part of my master's thesis work.
+
+For the summer of 2020, I was a research intern under [Dr Abhik Ghosh](https://www.isical.ac.in/~abhik.ghosh/) of Interdisciplinary Statistical Research Unit at Indian Statistical Institute, Kolkata.
 
