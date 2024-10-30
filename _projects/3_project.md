@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 3
+title: 
 description: Individualised Cyclic Causal Discovery with Latent Trajectory Embedding 
 img: assets/img/EEGhumanphoto.png
 importance: 3
